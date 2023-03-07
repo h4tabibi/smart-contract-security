@@ -1,14 +1,9 @@
 # Hardhat Security
-
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course. This part of the course is to help users understand basic security and some fundamentals of auditing.
+This is to help users understand basic security and some fundamentals of auditing.
 
 This repo has a few contracts with big flaws, see if you can see them, and see if the tools help you find them!
 
-*This repo has been updated for Goerli over Rinkeby.*
 
-*[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)*
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 - [Hardhat Security](#hardhat-security)
 - [What is an Audit?](#what-is-an-audit)
@@ -232,9 +227,6 @@ yarn format
 
 If you appreciated this, feel free to follow me or donate!
 
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
+ETH/Polygon/Avalanche/etc Address: 0xaC8Ad704C2821C2962581c4C4da527c71E914aF1
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+[![hunt3r w3b Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hunter_w3b)
